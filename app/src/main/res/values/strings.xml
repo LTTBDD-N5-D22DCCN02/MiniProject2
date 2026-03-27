@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MiniProject2</string>
+    <string name="app_name">CinemaApp</string>
+    <string name="nav_movies">Phim</string>
+    <string name="nav_theaters">Rạp</string>
+    <string name="nav_showtimes">Lịch chiếu</string>
+    <string name="nav_profile">Tài khoản</string>
 </resources>
