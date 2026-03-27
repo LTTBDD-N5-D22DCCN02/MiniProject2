@@ -16,8 +16,8 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url = uri("https://jitpack.io") }
     }
 }
-
-rootProject.name = "MiniProject2"
+rootProject.name = "MovieTicketApp"
 include(":app")
