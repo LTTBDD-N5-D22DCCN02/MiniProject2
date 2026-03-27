@@ -1,0 +1,75 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file
+local.properties
+*.properties
+!gradle.properties
+
+# Android Studio
+*.iml
+.idea/
+.idea/modules.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Navigation editor generated files
+.navigation/
+
+# Kotlin
+.kotlin/
+
+# NDK
+*.so
+
+# Keystore files (NEVER commit these)
+*.jks
+*.keystore
+keystore.properties
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Test results
+test-results/
+androidTest-results/
