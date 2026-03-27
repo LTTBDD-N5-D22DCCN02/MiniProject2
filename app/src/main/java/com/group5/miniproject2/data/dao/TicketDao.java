@@ -6,8 +6,8 @@ import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.group5.movieticket.data.model.Ticket;
-import com.group5.movieticket.data.model.TicketDetail;
+import com.group5.miniproject2.data.model.Ticket;
+import com.group5.miniproject2.data.model.TicketDetail;
 
 import java.util.List;
 

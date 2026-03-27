@@ -5,7 +5,7 @@ import androidx.room.Dao;
 import androidx.room.Insert;
 import androidx.room.Query;
 
-import com.group5.movieticket.data.model.Theater;
+import com.group5.miniproject2.data.model.Theater;
 
 import java.util.List;
 

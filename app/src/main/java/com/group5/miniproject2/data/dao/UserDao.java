@@ -6,7 +6,7 @@ import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.group5.movieticket.data.model.User;
+import com.group5.miniproject2.data.model.User;
 
 @Dao
 public interface UserDao {

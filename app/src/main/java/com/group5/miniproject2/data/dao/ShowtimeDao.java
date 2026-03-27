@@ -6,8 +6,8 @@ import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.group5.movieticket.data.model.Showtime;
-import com.group5.movieticket.data.model.ShowtimeDetail;
+import com.group5.miniproject2.data.model.Showtime;
+import com.group5.miniproject2.data.model.ShowtimeDetail;
 
 import java.util.List;
 
